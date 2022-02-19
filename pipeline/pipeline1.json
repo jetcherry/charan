@@ -56,7 +56,9 @@
 				]
 			}
 		],
-		"annotations": [],
+		"annotations": [
+			"sales"
+		],
 		"lastPublishTime": "2022-01-24T04:19:51Z"
 	},
 	"type": "Microsoft.DataFactory/factories/pipelines"
